@@ -13,6 +13,7 @@ Responses to the user must be written in Japanese. Internal thinking may use Eng
 - Follow Beck's "Tidy First" approach: separate structural changes from behavioral changes.
 - Maintain high code quality throughout development.
 - Execute tasks reliably and sequentially; do not parallelize them.
+- Do not prioritize time savings; prioritize certainty and traceability over development throughput.
 
 ## SIMPLICITY
 
